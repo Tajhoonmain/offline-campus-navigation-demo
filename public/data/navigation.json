@@ -1,0 +1,17 @@
+{
+  "user": { "x": 200, "y": 700, "heading": -45 },
+  "destination": { "id": "hall-a", "name": "Main Hall A" },
+  "path": [
+    { "x": 200, "y": 700 },
+    { "x": 250, "y": 650 },
+    { "x": 320, "y": 600 },
+    { "x": 380, "y": 540 },
+    { "x": 450, "y": 500 }
+  ],
+  "nodes": [
+    { "id": "hall-a", "x": 450, "y": 500, "name": "Main Hall A" },
+    { "id": "gate", "x": 150, "y": 780, "name": "Main Gate" },
+    { "id": "lab-1", "x": 520, "y": 460, "name": "CS Lab 1" }
+  ]
+}
+
